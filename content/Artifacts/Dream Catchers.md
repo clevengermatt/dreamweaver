@@ -10,7 +10,7 @@ title: Dream Catchers
 
 **Purpose**: Synchronizing Dream Teams
 
-Dream catchers are magical artifacts woven by the Dreamweavers to enable coordinated dreamwalking missions. These artifacts are the cornerstone of the Dreamweavers Guild, allowing dream walkers to enter the dream realm as a cohesive team. Without dream catchers, the guild would lose the ability to operate effectively, as shared dream spaces are essential for success.
+Dream catchers are magical artifacts woven by the [[Dreamweavers]] to enable coordinated dreamwalking missions. These artifacts are the cornerstone of [[The Dreamweavers Guild]], allowing dream walkers to enter the dream realm as a cohesive team. Without dream catchers, the guild would lose the ability to operate effectively, as shared dream spaces are essential for success.
 
 ### The Power of Connection:
 

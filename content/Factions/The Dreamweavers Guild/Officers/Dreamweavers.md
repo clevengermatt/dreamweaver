@@ -8,7 +8,7 @@ title: Dreamweavers
 
 **Status**: Rare and Indispensable
 
-Dreamweavers are the women entrusted with the ancient and mystical art of creating [dream catchers](Dream%20Catchers.md), an indispensable craft that forms the foundation of the Dreamweavers Guild. They are the keepers of a closely guarded tradition, passed down through generations, and their work enables the guild to function as it does today. Without the Dreamweavers, the guild would lack the ability to carry out coordinated dreamwalking operations, making them vital to its mission of protecting the dream realm.
+Dreamweavers are the women entrusted with the ancient and mystical art of creating [dream catchers](Dream%20Catchers.md), an indispensable craft that forms the foundation of [[The Dreamweavers Guild]]. They are the keepers of a closely guarded tradition, passed down through generations, and their work enables the guild to function as it does today. Without the Dreamweavers, the guild would lack the ability to carry out coordinated dreamwalking operations, making them vital to its mission of protecting the dream realm.
 
 #### Guardians of a Sacred Craft:
 
@@ -16,7 +16,7 @@ Dreamweavers possess a rare and specialized knowledge of the dream realm, allowi
 
 #### Advisors and Visionaries:
 
-Beyond their craftsmanship, Dreamweavers often serve as advisors to guild leaders, including The Restless. Their insights into the dream realm and its complexities are highly sought after. They are revered figures within the guild, and their words carry great weight.
+Beyond their craftsmanship, Dreamweavers often serve as advisors to guild leaders, including [[The Restless]]. Their insights into the dream realm and its complexities are highly sought after. They are revered figures within the guild, and their words carry great weight.
 
 #### The Weavers’ Legacy:
 

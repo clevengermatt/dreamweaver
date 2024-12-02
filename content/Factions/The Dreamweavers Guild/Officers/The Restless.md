@@ -4,7 +4,7 @@
 
 **Status**: Revered and Solemn
 
-The Restless serves as the ultimate leader of the Dreamweavers Guild, a position regarded with profound respect and solemnity due to the immense sacrifice it demands. The title “The Restless” is not symbolic but literal—upon taking on the role, the leader undergoes a ritual that severs their ties to the dream realm. This ensures they are entirely removed from active dreamwalking activities and eliminates the risk of abusing the guild’s resources or power for personal gain.
+The Restless serves as the ultimate leader of [[The Dreamweavers Guild]], a position regarded with profound respect and solemnity due to the immense sacrifice it demands. The title “The Restless” is not symbolic but literal—upon taking on the role, the leader undergoes a ritual that severs their ties to the dream realm. This ensures they are entirely removed from active dreamwalking activities and eliminates the risk of abusing the guild’s resources or power for personal gain.
 
 #### The Great Sacrifice:
 
@@ -26,6 +26,4 @@ Though removed from direct dreamwalking, The Restless oversees the guild’s ope
 
 The Restless is a figure of quiet gravity, their eyes shadowed but sharp, reflecting both exhaustion and unwavering resolve. Their speech is measured, their presence commanding respect. While they do not wield power in the dream realm, their decisions ripple through it, shaping the guild’s mission and maintaining its integrity.
 
-  
-
-To serve as The Restless is to live a life of unparalleled sacrifice, a testament to the guild’s ideals and an enduring symbol of its commitment to the safety of dreamers. In doing so, The Restless becomes both a shield against corruption and a compass guiding the Dreamweavers Guild toward its noble purpose.
+To serve as The Restless is to live a life of unparalleled sacrifice, a testament to the guild’s ideals and an enduring symbol of its commitment to the safety of dreamers. In doing so, The Restless becomes both a shield against corruption and a compass guiding [[The Dreamweavers Guild]] toward its noble purpose.

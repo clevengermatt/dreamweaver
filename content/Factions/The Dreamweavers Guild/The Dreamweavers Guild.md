@@ -5,15 +5,8 @@ title: The Dreamweavers Guild
 ![[dreamweavers-guild.png]]
 
 ## Officers
-[[The Restless]] 
-[[Dreamweavers]]
-
-
-### Dreamweavers
-
-
-### Dreamwrights
-
-### Sleeptalkers
-
-### Dream Teams
+- [[The Restless]] 
+- [[Dreamwrights]]
+- [[Dreamweavers]]
+- [[Sleep Talkers]]
+- [[Dream Teams]]
