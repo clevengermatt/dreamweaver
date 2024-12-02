@@ -1,3 +1,5 @@
+![[dreamweavers.png]]
+
 **Role**: Artisans of the Dreamweaving Tradition
 
 **Status**: Rare and Indispensable
