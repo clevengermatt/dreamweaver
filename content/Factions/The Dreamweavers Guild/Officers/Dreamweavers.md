@@ -1,3 +1,7 @@
+---
+title: Dreamweavers
+---
+
 ![[dreamweavers.png]]
 
 **Role**: Artisans of the Dreamweaving Tradition

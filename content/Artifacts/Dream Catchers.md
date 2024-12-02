@@ -1,27 +1,8 @@
 ---
-title: The Dreamweavers Guild
+title: Dream Catchers
 ---
 
-![[dreamweavers-guild.png]]
-
-## Officers
-[[The Restless]] 
-[[Dreamweavers]]
-
-
-### Dreamweavers
-
-
-### Dreamwrights
-
-### Sleeptalkers
-
-### Dream Teams
-
-
-# Artifacts
-
-## Dream Catchers
+![[dream-catcher.png]]
 
 **Artifact Type**: Dreamwalking Tool
 
