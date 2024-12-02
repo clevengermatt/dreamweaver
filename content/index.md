@@ -1,5 +1,5 @@
 ---
-title: Dreamweaver
+title:
 ---
 ![[dreamweaver.png]]
 
