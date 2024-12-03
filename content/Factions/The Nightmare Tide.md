@@ -2,6 +2,7 @@
 title: The Nightmare Tide
 draft: false
 ---
+
 ![[the-nightmare-tide.png]]
 
 **Type:** Category of Malevolent Entities
