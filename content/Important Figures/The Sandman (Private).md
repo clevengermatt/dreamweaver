@@ -2,6 +2,7 @@
 title: The Sandman (Private)
 draft: true
 ---
+![[the-sandman.png]]
 
 **Type:** Enigmatic Dream Entity
 
