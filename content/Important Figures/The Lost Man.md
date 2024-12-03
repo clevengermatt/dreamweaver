@@ -2,13 +2,14 @@
 title: The Lost Man
 draft: false
 ---
+
 ![[the-lost-man.png]]
 
 **Type:** Mysterious [[Dreamkind]]
 
 **Behavior:** Chaotic, Powerful, and Unpredictable
 
-The Lost Man is an enigma within the dreamscape, regarded by [[the Dreamweavers Guild]] as one of the most unusual [[Dreamkind]] ever encountered. Unlike most [[Dreamkind]], he has no known “home” dream. Instead, he appears randomly across the dream realm, bringing instability and disruption wherever he goes.
+The Lost Man is an enigma within the dreamscape, regarded by [[The Dreamweavers Guild]] as one of the most unusual [[Dreamkind]] ever encountered. Unlike most [[Dreamkind]], he has no known “home” dream. Instead, he appears randomly across the dream realm, bringing instability and disruption wherever he goes.
 
 **Nature and Behavior**
 
@@ -44,4 +45,4 @@ The Lost Man’s origins are unknown, leading to numerous theories among guild m
 
 While The Lost Man is not considered inherently malevolent, his disruptive presence makes him a figure of concern for dreamwalkers. Encounters with him are rare and unpredictable, often leaving those who experience them with more questions than answers.
 
-For now, The Lost Man remains a mystery—a powerful force within the dreamscape that continues to challenge [[the Dreamweavers Guild]]’s understanding of the realm and its inhabitants.
+For now, The Lost Man remains a mystery—a powerful force within the dreamscape that continues to challenge [[The Dreamweavers Guild]]’s understanding of the realm and its inhabitants.

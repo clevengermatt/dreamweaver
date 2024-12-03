@@ -35,7 +35,7 @@ While most of their work relies on individual dreamwalking, their possession of 
 
 **Relationship with [[[the Dreamweavers Guild**]]]
 
-The Slumber Exchange’s relationship with [[the Dreamweavers Guild]] is tense and begrudging at best. The guild views the Exchange’s practices as a direct affront to its mission to protect dreamers and preserve the balance of the dreamscape.
+The Slumber Exchange’s relationship with [[The Dreamweavers Guild]] is tense and begrudging at best. The guild views the Exchange’s practices as a direct affront to its mission to protect dreamers and preserve the balance of the dreamscape.
 
 **Points of Tension:**
 
@@ -53,6 +53,6 @@ Their true motivation is money, and nothing more. The dreamscape is merely a too
   
 **Significance in the Dream Realm**
 
-The Slumber Exchange is a constant thorn in [[the Dreamweavers Guild]]’s side, a group whose opportunistic nature and lack of ethics make them both a resource and a threat. They embody the dreamscape’s potential for exploitation, wielding it as a tool to serve their greed.
+The Slumber Exchange is a constant thorn in [[The Dreamweavers Guild]]’s side, a group whose opportunistic nature and lack of ethics make them both a resource and a threat. They embody the dreamscape’s potential for exploitation, wielding it as a tool to serve their greed.
 
 Despite their scummy reputation, The Slumber Exchange’s mastery of the dreamscape ensures that they remain relevant—and necessary—in a world where secrets are the most valuable currency.

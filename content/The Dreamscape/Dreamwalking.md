@@ -55,4 +55,4 @@ Dreamwalking is not exclusive to the Dreamweavers Guild. While the guild trains 
 
 **Significance**
 
-Dreamwalking bridges the gap between the waking world and the dream realm. It is an art, a skill, and a challenge, offering opportunities to explore the unknown, confront dangers, and influence the subconscious. Whether performed by guild operatives or independent dreamers, dreamwalking reflects humanity’s profound connection to the mysterious realm of dreams.
+Dreamwalking bridges the gap between the waking world and the dream realm. It is an art, a skill, and a challenge, offering opportunities to explore the unknown, confront dangers, and influence the subconscious. Whether performed by guild operatives or independent dreamers, dreamwalking reflects dreamers’ profound connection to the mysterious realm of dreams.
