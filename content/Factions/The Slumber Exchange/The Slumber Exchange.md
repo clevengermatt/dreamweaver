@@ -1,3 +1,7 @@
+---
+title: The Slumber Exchange
+draft: false
+---
 
 ![[sumber-exchange.png]]
 
@@ -27,7 +31,7 @@ The operatives of The Slumber Exchange are skilled dreamwalkers who use subtle t
 
 • **Information Trade:** Selling dream-derived intelligence to individuals, corporations, and even criminal organizations in exchange for waking-world cash.
 
-While most of their work relies on individual dreamwalking, their possession of a few stolen dream catchers gives them an edge in achieving lucidity, making their operations more efficient and dangerous.
+While most of their work relies on individual dreamwalking, their possession of a few stolen dreamcatchers gives them an edge in achieving lucidity, making their operations more efficient and dangerous.
 
 **Relationship with [[[the Dreamweavers Guild**]]]
 
@@ -35,7 +39,7 @@ The Slumber Exchange’s relationship with [[the Dreamweavers Guild]] is tense a
 
 **Points of Tension:**
 
-• **Ill-Gotten Dream Catchers:** The Exchange’s stolen dream catchers are a major source of conflict, as these artifacts give them a significant advantage while representing a breach of the guild’s sacred tools.
+• **Ill-Gotten Dreamcatchers:** The Exchange’s stolen [[dreamcatchers]] are a major source of conflict, as these artifacts give them a significant advantage while representing a breach of the guild’s sacred tools.
 
 • **Unethical Practices:** The Exchange’s willingness to sell sensitive information to dangerous buyers clashes with the guild’s moral responsibilities.
 

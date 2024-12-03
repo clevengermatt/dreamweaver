@@ -1,3 +1,8 @@
+---
+title: Driftways
+draft: false
+---
+
 ![[driftways.png]]
 
 **Artifact Type:** Natural Dream Transitions

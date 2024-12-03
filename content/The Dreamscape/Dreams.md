@@ -1,3 +1,8 @@
+---
+title: Dreams
+draft: false
+---
+
 ![[dreams.png]]
 
 **Type:** Persistent Subconscious Landscapes

@@ -1,3 +1,8 @@
+---
+title: Dreamkind
+draft: false
+---
+
 ![[dreamkind.png]]
 
 **Type:** Entities Native to the Dream Realm

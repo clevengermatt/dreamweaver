@@ -1,5 +1,6 @@
 ---
 title: The Dreamweavers Guild
+draft: false
 ---
 
 ![[dreamweavers-guild.png]]
@@ -46,7 +47,7 @@ The guild’s activities span both the dream realm and the waking world, with mi
 
 • **Driftway Mapping:** Documenting the natural pathways that connect [dreams](Dreams.md), ensuring safe traversal and preventing misuse.
 
-• **Dream Catcher Crafting:** The creation and maintenance of dream catchers, the artifacts that enable shared dreaming and team-based missions.
+• **Dreamcatcher Crafting:** The creation and maintenance of dreamcatchers, the artifacts that enable shared dreaming and team-based missions.
 
 **The Dreamscape’s Mysteries**
 

@@ -1,3 +1,8 @@
+---
+title: Sleep Talkers
+draft: false
+---
+
 ![[sleep-talkers.png]]
 
 **Role:** Mission Managers and Daydreaming Experts
@@ -8,7 +13,7 @@ Sleep Talkers are specialized members of the Dreamweavers Guild who master the d
 
 **Connection to the Dream Realm**
 
-Unlike dreamwalkers, Sleep Talkers cannot directly influence the dream realm. Their half-asleep state weakens their connection, limiting them to an observational role. However, they can communicate with lucid dreamwalkers who are using the same [dream catcher](Dream%20Catchers.md). Their ability to see the larger picture of the dreamscape makes them a powerful asset, often noticing patterns or threats that the dreamwalkers might overlook.
+Unlike dreamwalkers, Sleep Talkers cannot directly influence the dream realm. Their half-asleep state weakens their connection, limiting them to an observational role. However, they can communicate with lucid dreamwalkers who are using the same [dreamcatcher](Dreamcatchers.md). Their ability to see the larger picture of the dreamscape makes them a powerful asset, often noticing patterns or threats that the dreamwalkers might overlook.
 
 Dreamwalkers who have not reached lucidity are entirely unaware of the Sleep Talker’s presence. Once a team member achieves lucidity, the Sleep Talker becomes a vital guide, offering insights, warnings, or coordination to improve the team’s chances of success.
 
@@ -21,6 +26,10 @@ A hallmark of Sleep Talkers is their ability to interact with both the dream rea
 • **Communicate with the Waking World:** Relay vital information or respond to immediate dangers in the physical realm.
 
 However, engaging too much with the waking world risks pulling the Sleep Talker fully awake, severing their connection to the dream realm and leaving the [dream team](Dream%20Teams.md) without support.
+
+**Elves and Sleep Talking**
+
+Elves are particularly adept at becoming Sleep Talkers due to their natural meditative practices, which replace true sleep. Their ability to sustain a half-awake state during rituals aligns well with the requirements of Sleep Talkers. However, races that do not sleep, like elves, are less adept at dreamwalking, as their lack of natural sleep cycles makes true dreamwalking more challenging.
 
 **Team Dynamics**
 

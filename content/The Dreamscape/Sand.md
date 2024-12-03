@@ -1,3 +1,8 @@
+---
+title: Sand
+draft: false
+---
+
 ![[sand.png]]
 
 **Type:** Dream Phenomenon

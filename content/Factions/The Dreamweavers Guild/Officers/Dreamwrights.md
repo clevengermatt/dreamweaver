@@ -1,3 +1,8 @@
+---
+title: Dreamwrights
+draft: false
+---
+
 ![[dreamwrights.png]]
 
 **Role:** Guild Strategists and Planners
