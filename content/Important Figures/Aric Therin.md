@@ -2,6 +2,7 @@
 title: Aric Therin
 draft: false
 ---
+
 ![[aric-therin.png]]
 
 **Role:** Leader of [[the Dreamweavers Guild]]
