@@ -46,7 +46,7 @@ The true origins of Kindleglow are unclear, with various cultures offering their
 
 • **A Practical Beginning:** Some believe the holiday began as a way to combat winter’s harshest nights, lighting fires to warm homes and ward off the darkness. Over time, this necessity evolved into a celebration of light and community.
 
-• **A Mystical Tradition:** Others claim the first Kindleglow lanterns were enchanted by an ancient people who sought to preserve hope during a time of despair. These lanterns were said to burn not just with fire, but with the light of shared dreams and memories.
+• **A Mystical Tradition:** Others claim the first Kindleglow lanterns were enchanted by an ancient people who sought to preserve hope during a time of despair. These lanterns were said to burn not just with fire, but with the light of shared [[dreams]] and memories.
 
 This ambiguity allows the holiday to resonate with all, regardless of faith or cultural background, emphasizing the universal need for light and warmth during dark times.
 
